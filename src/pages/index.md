@@ -1,20 +1,14 @@
 ---
 templateKey: index-page
-title: Great coffee with a conscience
+title: Welcome To Ping Carlos
 image: /img/home-jumbotron.jpg
-heading: Great coffee with a conscience
-subheading: Support sustainable farming while enjoying a cup
+heading: "IT Tutorials and Help "
+subheading: Linux, AWS, and Networknig
 mainpitch:
-  title: Why Kaldi
-  description: >
-    Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
-description: Kaldi is the ultimate spot for coffee lovers who want to learn
-  about their java’s origin and support the farmers that grew it. We take coffee
-  production, roasting and brewing seriously and we’re glad to pass that
-  knowledge to anyone.
+  title: "Why Ping Carlos "
+  description: Offering the best help and tutorials. Best of all it is all FREE.
+    Ask me anything and will try my best to respond as fast as possible. Enjoy!
+description: "Intro "
 intro:
   blurbs:
     - image: /img/coffee.png
